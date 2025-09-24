@@ -310,11 +310,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
- <img width="1071" height="700" alt="Screenshot 2025-09-24 094048" src="https://github.com/user-attachments/assets/c4044976-af4a-4d73-81d1-939cc5251245" />
+<img width="1243" height="860" alt="image" src="https://github.com/user-attachments/assets/01075dfd-f844-496f-be98-82fe13f75cc7" />
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![Uploading image.png…]()
+<img width="1063" height="763" alt="Screenshot 2025-09-24 095203" src="https://github.com/user-attachments/assets/81e4f56c-4ef0-4c33-95ae-ce5d9eaa49f0" />
 
  
 ## Result :
